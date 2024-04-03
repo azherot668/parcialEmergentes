@@ -1,0 +1,7 @@
+CREATE TABLE calificacion (
+    id INT AUTO_INCREMENT PRIMARY KEY,
+    p1 FLOAT,
+    p2 FLOAT,
+    p3 FLOAT,
+    nota FLOAT
+);
